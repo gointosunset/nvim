@@ -1,0 +1,11 @@
+{
+	"languageserver": {
+		"vetur": {
+			"filetypes": ["vue"],
+			"command": "/usr/local/lib/node_modules/vls/bin/vls",
+			"configuration": {
+				"vetur.format.options.tabSize": 2
+			}
+		}
+	}
+}
